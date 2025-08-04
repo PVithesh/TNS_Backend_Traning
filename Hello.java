@@ -1,6 +1,6 @@
 class Hello{
     void print(){
-        System.out.println("Hello! This is my first program");
+        System.out.println("Hello! This is day 1 of TNS");
     }
 }
 class HelloMain{

@@ -2,7 +2,6 @@ public class TypeCasting {
     public static void main(String[] args) {
         //Implicit Type Casting
         short a = 40;
-    
         int b = a; 
         long l = a;
         float f = a;

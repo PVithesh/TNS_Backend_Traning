@@ -5,7 +5,7 @@ public class ConditionalDemo {
 		Scanner sc =new Scanner(System.in);
 		System.out.println("Enter the age: ");
 		int age=sc.nextInt();
-		if(age>=18)
+		if(age>=18) 
 		{
 			System.out.print(age+" is valid Right to vote");		
 		}
